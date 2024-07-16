@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 hi this is anirudh
+=======
+hi this is s
+
+hi fayaz
+>>>>>>> c6f5b3a8ca8f8d1f8ba387684ba5636dcd412cac
